@@ -1,24 +1,97 @@
-<!-- Typing Animation Header -->
+<!-- Header Neon Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Welcome+to+my+Digital+Space!+%F0%9F%90%A7;CS+%26+Tech+Undergraduate+%F0%9F%92%BB;Python+%26+System+Automation;Graphic+Designer+%26+Content+Creator+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=ISHAK%20KALHARA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20PYTHON%20AUTOMATION%20%7C%20GRAPHIC%20DESIGN&descSize=14&descAlignY=62" width="100%" />
+</div>
+
+<!-- Modern Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&lines=%E2%9A%A1+Building+Future-Ready+Digital+Solutions;%F0%9F%90%8D+Python+%26+Automation+Enthusiast;%F0%9F%8E%A8+Digital+Content+%26+Graphic+Creator;%F0%9F%9A%80+Exploring+Cloud+%26+Linux+Ecosystems" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Banner Animation -->
+<!-- Cool Coding Animation Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px" alt="Coding GIF" />
+</div>
+
+<br/>
+
+---
+
+### 💻 Tech Stack & Skills
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=1SHK-X%20%7C%20Ishak%20Kalhara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Languages -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Languages" /></a>
+  <br/><br/>
+  <!-- Frameworks & Tools -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,docker" alt="Tools" /></a>
+  <br/><br/>
+  <!-- Design & Media -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=ps,ai,figma" alt="Design Tools" /></a>
 </p>
 
 ---
 
-### 💫 About Me
+### 🚀 About Me Matrix
 
-```javascript
-const dev = {
-    name: 'Ishak Kalhara',
-    alias: '1SHK-X',
-    focus: ['Python', 'System Administration', 'Automation', 'Graphic Design'],
-    tools: ['WSL2 / Linux', 'Affinity Suite', 'VS Code', 'Git'],
-    passions: ['Coding', 'Gaming', 'Digital Content Creation']
-};
+```json
+{
+  "developer": "Ishak Kalhara",
+  "alias": "1SHK-X",
+  "core_competencies": ["Python", "System Scripting", "UI/UX Design"],
+  "environment": "WSL2 / Ubuntu Linux",
+  "current_focus": "Building Scalable Tools & Automated Scripts",
+  "learning": "Advanced Cloud Services & Microservices"
+}<!-- Header Neon Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=ISHAK%20KALHARA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20PYTHON%20AUTOMATION%20%7C%20GRAPHIC%20DESIGN&descSize=14&descAlignY=62" width="100%" />
+</div>
+
+<!-- Modern Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&lines=%E2%9A%A1+Building+Future-Ready+Digital+Solutions;%F0%9F%90%8D+Python+%26+Automation+Enthusiast;%F0%9F%8E%A8+Digital+Content+%26+Graphic+Creator;%F0%9F%9A%80+Exploring+Cloud+%26+Linux+Ecosystems" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Cool Coding Animation Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px" alt="Coding GIF" />
+</div>
+
+<br/>
+
+---
+
+### 💻 Tech Stack & Skills
+
+<p align="center">
+  <!-- Languages -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Languages" /></a>
+  <br/><br/>
+  <!-- Frameworks & Tools -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,docker" alt="Tools" /></a>
+  <br/><br/>
+  <!-- Design & Media -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=ps,ai,figma" alt="Design Tools" /></a>
+</p>
+
+---
+
+### 🚀 About Me Matrix
+
+```json
+{
+  "developer": "Ishak Kalhara",
+  "alias": "1SHK-X",
+  "core_competencies": ["Python", "System Scripting", "UI/UX Design"],
+  "environment": "WSL2 / Ubuntu Linux",
+  "current_focus": "Building Scalable Tools & Automated Scripts",
+  "learning": "Advanced Cloud Services & Microservices"
+}
